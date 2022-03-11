@@ -1,0 +1,39 @@
+strong{
+    font-weight: 600;
+}
+.corpo{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.corpo .sobre{
+    width: 90%;
+    background-color: rgb(231, 231, 233);
+    border-radius: 20px;
+    padding: 10%;
+}
+
+.corpo .sobre h1{
+  font-size: 35px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  color:#3d1b12;
+
+}
+
+.corpo .sobre p{
+    font-size: 25px;
+    margin-bottom: 10px;
+  
+  }
+
+.corpo .sobre h2{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #da6709;
+  
+  }
